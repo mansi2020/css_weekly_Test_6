@@ -703,7 +703,9 @@ form input{
         gap:1rem;
         padding: 1.5rem 1rem;
     }
-
+    .logo1{
+        width:200px;
+    }
     /* section-1 */
     .section1_content {
         text-align: center;
