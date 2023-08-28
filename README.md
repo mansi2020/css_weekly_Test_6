@@ -1,4 +1,4 @@
-# Hosted Link :
+# Hosted Link :https://mansi2020.github.io/css_weekly_Test_6/
 # UI Part :navbar:  
 
 ![Screenshot 2023-08-28 143555](https://github.com/mansi2020/css_weekly_Test_6/assets/57188328/eae4d4c6-dbf8-484c-88e2-03312b6f30be)
